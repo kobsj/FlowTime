@@ -1,0 +1,13 @@
+#tray {
+  background-color: gray;
+  width: 15%;
+  height: 500px;
+  float: left;
+}
+
+#main {
+  background-color: skyblue;
+  width: 85%;
+  height: 500px;
+  float: right;
+}
